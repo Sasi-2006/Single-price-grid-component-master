@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Sasi-2006/Single-price-grid-component-master
-- Live Site URL: https://your-live-site-url.com/
+- Live Site URL: https://sasi-2006.github.io/Single-price-grid-component-master/
 
 ---
 
