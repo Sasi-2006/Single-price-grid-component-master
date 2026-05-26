@@ -34,13 +34,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot3.jpg)
+![](./screenshot3.png)
 
 ---
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/
+- Solution URL: https://github.com/Sasi-2006/Single-price-grid-component-master
 - Live Site URL: https://your-live-site-url.com/
 
 ---
